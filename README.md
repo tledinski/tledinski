@@ -12,6 +12,10 @@ Ich baue KI-gestützte Software-Werkzeuge für kleine Business-Probleme — von 
 - **[ki-business](https://github.com/tledinski/ki-business)** — Business-Monorepo (Kunden, Finanzen, Templates, Archiv, n8n-Setup).
 - **[Obsidian-Vault](https://github.com/tledinski/Obsidian-Vault)** — zentrale Wissensquelle: Konventionen, Projektwissen, SOPs.
 
+#### 🏃 Privat (aktiv)
+
+- **[apple-health-stage2](https://github.com/tledinski/apple-health-stage2)** — Apple-Health-Sync-Pipeline (Webhook-Raw-Capture → strukturierte DB via n8n).
+
 #### 🗄 Archiviert
 
 - **[ki-business-workflows](https://github.com/tledinski/ki-business-workflows)** — abgelöst durch `auto-arbitrage-scout/n8n-workflows/`.
